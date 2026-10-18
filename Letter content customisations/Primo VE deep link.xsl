@@ -13,4 +13,4 @@
     If you would like this item held for you, <a target="_blank">
         <xsl:attribute name="href">
             <xsl:value-of select="$PRIMO_DEEPLINK"/>
-        </xsl:attribute>place a request on Primo.</a>.
+        </xsl:attribute>place a request on Primo</a>.
