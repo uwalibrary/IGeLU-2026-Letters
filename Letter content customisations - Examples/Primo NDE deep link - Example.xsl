@@ -10,7 +10,7 @@
 
 <!-- Insert the below later on in your <xsl:template> element to use the deeplink you built as part of your letter -->
 
-    If you would like this item held for you,<a target="_blank">
+    If you would like this item held for you, <a target="_blank">
     <xsl:attribute name="href">
         <xsl:value-of select="$PRIMO_DEEPLINK"/>
     </xsl:attribute>place a request on OneSearch</a>.
