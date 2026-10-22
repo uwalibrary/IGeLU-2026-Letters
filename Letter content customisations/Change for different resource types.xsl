@@ -21,8 +21,8 @@
             <td style="padding: 4px;">
                 If you would like this item held for you, <a target="_blank">
                 <xsl:attribute name="href">
-                    <xsl:value-of select="$ONESEARCH_DEEPLINK" />
-                </xsl:attribute>place a request on OneSearch</a>.
+                    <xsl:value-of select="$PRIMO_DEEPLINK" />
+                </xsl:attribute>place a request on Primo</a>.
             </td>
         </tr>
     </xsl:otherwise>
